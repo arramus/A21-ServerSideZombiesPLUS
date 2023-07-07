@@ -1,0 +1,4 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+
+ServerSideZombiesPLUSStarterKit,items,item,,,Server Side Zombies PLUS Starter Kit,,,,,,,,,,,,,
+ServerSideZombiesPLUSStarterKitDesc,items,item,,,"After being stunned by a plasma vulture, you wake up as naked as the day you were born, with nothing but an old leather holdall bulging at the seams, and a rusty old minibike. An eery electric shield protected the holdall and minibike from scavengers, and acts as starter kit to help you begin again. This will ease you into the challenge of this Server Side Zombies PLUS server and set you back on your path.",,,,,,,,,,,,,
