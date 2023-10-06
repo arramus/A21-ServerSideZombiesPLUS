@@ -30,7 +30,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05		
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .025		
 	</csv>
 
 	<!-- *** BIOME_ZOMBIES_NIGHT_GROUP -->
@@ -62,7 +63,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05	
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .025		
 	</csv>
 
 	<!-- *** BIOME_ZOMBIES_FOREST_DOWNTOWN_GROUP -->
@@ -94,7 +96,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05		
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .025		
 	</csv>
 
 	<!-- *** BIOME_ZOMBIES_FOREST_DOWNTOWN_NIGHT_GROUP -->
@@ -126,7 +129,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05	
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .025
 	</csv>
 
 <!-- *** BIOME_ZOMBIES_DOWNTOWN_GROUP -->
@@ -158,7 +162,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05	
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .025
 	</csv>
 
 <!-- *** BIOME_ZOMBIES_WASTELAND_GROUP -->
@@ -190,7 +195,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05	
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .05
 	</csv>
 	
 <!-- *** BIOME_ZOMBIES_WASTELAND_NIGHT_GROUP -->
@@ -222,7 +228,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05		
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .05
 	</csv>
 
 <!-- *** BIOME_ZOMBIES_WASTELAND_DOWNTOWN_GROUP -->
@@ -254,7 +261,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05	
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .05
 	</csv>
 
 <!-- *** BIOME_ZOMBIES_BURNT_FOREST_GROUP -->
@@ -286,7 +294,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05	
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .025
 	</csv>
 
 <!-- *** BIOME_ZOMBIES_LUMBERJACK_GROUPS -->
@@ -318,7 +327,8 @@
 		zombieWightRadiationShowerPLUS, .05
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
-		zombieScorcherPLUS, .05		
+		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .025		
 	</csv>
 	
 <!-- *** FERAL_HORDE_STAGES -->
@@ -545,6 +555,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS64']/text()" delim="\n" op="add" >
@@ -576,6 +587,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS69']/text()" delim="\n" op="add" >
@@ -607,6 +619,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS74']/text()" delim="\n" op="add" >
@@ -638,6 +651,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS80']/text()" delim="\n" op="add" >
@@ -669,6 +683,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS85']/text()" delim="\n" op="add" >
@@ -700,6 +715,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS91']/text()" delim="\n" op="add" >
@@ -731,6 +747,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS97']/text()" delim="\n" op="add" >
@@ -762,6 +779,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS103']/text()" delim="\n" op="add" >
@@ -793,6 +811,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS109']/text()" delim="\n" op="add" >
@@ -824,6 +843,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS115']/text()" delim="\n" op="add" >
@@ -855,6 +875,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS121']/text()" delim="\n" op="add" >
@@ -886,6 +907,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS127']/text()" delim="\n" op="add" >
@@ -917,6 +939,7 @@
 		zombieBogeymanPLUS, .025
 		zombieCrispyPLUS, .025
 		zombieScorcherPLUS, .025
+		zombieRocketPLUS, .008
 	</csv>
 
 <!-- First Appearance of Radiated increases spawning chance for Custom entities -->	
@@ -949,6 +972,7 @@
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
 		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .016
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS140']/text()" delim="\n" op="add" >
@@ -980,6 +1004,7 @@
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
 		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .016
 	</csv>
 
 <!-- First Appearance of Demolisher for reference -->	
@@ -1012,6 +1037,7 @@
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
 		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .016
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS153']/text()" delim="\n" op="add" >
@@ -1043,6 +1069,7 @@
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
 		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .016
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS160']/text()" delim="\n" op="add" >
@@ -1074,6 +1101,7 @@
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
 		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .016
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS167']/text()" delim="\n" op="add" >
@@ -1105,6 +1133,7 @@
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
 		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .016
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS174']/text()" delim="\n" op="add" >
@@ -1136,6 +1165,7 @@
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
 		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .016
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS181']/text()" delim="\n" op="add" >
@@ -1167,6 +1197,7 @@
 		zombieBogeymanPLUS, .05
 		zombieCrispyPLUS, .05
 		zombieScorcherPLUS, .05
+		zombieRocketPLUS, .016
 	</csv>
 
 <!-- First appearance of 1.0 type probability for Radiated Zombie -->	
@@ -1199,6 +1230,7 @@
 		zombieBogeymanPLUS, .075
 		zombieCrispyPLUS, .075
 		zombieScorcherPLUS, .075
+		zombieRocketPLUS, .025
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS195']/text()" delim="\n" op="add" >
@@ -1230,6 +1262,7 @@
 		zombieBogeymanPLUS, .075
 		zombieCrispyPLUS, .075
 		zombieScorcherPLUS, .075
+		zombieRocketPLUS, .025
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS202']/text()" delim="\n" op="add" >
@@ -1261,6 +1294,7 @@
 		zombieBogeymanPLUS, .075
 		zombieCrispyPLUS, .075
 		zombieScorcherPLUS, .075
+		zombieRocketPLUS, .025
 	</csv>
 
 <!-- Radiated Zombie at 1.0 becomes the norm except for special type -->	
@@ -1293,6 +1327,7 @@
 		zombieBogeymanPLUS, .1
 		zombieCrispyPLUS, .1
 		zombieScorcherPLUS, .1
+		zombieRocketPLUS, .033
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS217']/text()" delim="\n" op="add" >
@@ -1324,6 +1359,7 @@
 		zombieBogeymanPLUS, .1
 		zombieCrispyPLUS, .1
 		zombieScorcherPLUS, .1
+		zombieRocketPLUS, .033
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS225']/text()" delim="\n" op="add" >
@@ -1355,6 +1391,7 @@
 		zombieBogeymanPLUS, .1
 		zombieCrispyPLUS, .1
 		zombieScorcherPLUS, .1
+		zombieRocketPLUS, .033
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS232']/text()" delim="\n" op="add" >
@@ -1386,6 +1423,7 @@
 		zombieBogeymanPLUS, .1
 		zombieCrispyPLUS, .1
 		zombieScorcherPLUS, .1
+		zombieRocketPLUS, .033
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS240']/text()" delim="\n" op="add" >
@@ -1417,6 +1455,7 @@
 		zombieBogeymanPLUS, .1
 		zombieCrispyPLUS, .1
 		zombieScorcherPLUS, .1
+		zombieRocketPLUS, .033
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS247']/text()" delim="\n" op="add" >
@@ -1448,6 +1487,7 @@
 		zombieBogeymanPLUS, .1
 		zombieCrispyPLUS, .1
 		zombieScorcherPLUS, .1
+		zombieRocketPLUS, .033
 	</csv>
 
 <!-- Increase for Custom Zombies based on Pre A21 values -->	
@@ -1480,6 +1520,7 @@
 		zombieBogeymanPLUS, .125
 		zombieCrispyPLUS, .125
 		zombieScorcherPLUS, .125
+		zombieRocketPLUS, .041
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS263']/text()" delim="\n" op="add" >
@@ -1511,6 +1552,7 @@
 		zombieBogeymanPLUS, .125
 		zombieCrispyPLUS, .125
 		zombieScorcherPLUS, .125
+		zombieRocketPLUS, .041
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS271']/text()" delim="\n" op="add" >
@@ -1542,6 +1584,7 @@
 		zombieBogeymanPLUS, .125
 		zombieCrispyPLUS, .125
 		zombieScorcherPLUS, .125
+		zombieRocketPLUS, .041
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS279']/text()" delim="\n" op="add" >
@@ -1573,6 +1616,7 @@
 		zombieBogeymanPLUS, .125
 		zombieCrispyPLUS, .125
 		zombieScorcherPLUS, .125
+		zombieRocketPLUS, .041
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS287']/text()" delim="\n" op="add" >
@@ -1604,6 +1648,7 @@
 		zombieBogeymanPLUS, .125
 		zombieCrispyPLUS, .125
 		zombieScorcherPLUS, .125
+		zombieRocketPLUS, .041
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS295']/text()" delim="\n" op="add" >
@@ -1635,6 +1680,7 @@
 		zombieBogeymanPLUS, .125
 		zombieCrispyPLUS, .125
 		zombieScorcherPLUS, .125
+		zombieRocketPLUS, .041
 	</csv>
 
 <!-- Increase for GS 300 -->	
@@ -1667,6 +1713,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS312']/text()" delim="\n" op="add" >
@@ -1698,6 +1745,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS320']/text()" delim="\n" op="add" >
@@ -1729,6 +1777,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS329']/text()" delim="\n" op="add" >
@@ -1760,6 +1809,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS337']/text()" delim="\n" op="add" >
@@ -1791,6 +1841,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS346']/text()" delim="\n" op="add" >
@@ -1822,6 +1873,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS354']/text()" delim="\n" op="add" >
@@ -1853,6 +1905,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS363']/text()" delim="\n" op="add" >
@@ -1884,6 +1937,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS372']/text()" delim="\n" op="add" >
@@ -1915,6 +1969,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS381']/text()" delim="\n" op="add" >
@@ -1946,6 +2001,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS389']/text()" delim="\n" op="add" >
@@ -1977,6 +2033,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS398']/text()" delim="\n" op="add" >
@@ -2008,6 +2065,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS407']/text()" delim="\n" op="add" >
@@ -2039,6 +2097,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS417']/text()" delim="\n" op="add" >
@@ -2070,6 +2129,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS426']/text()" delim="\n" op="add" >
@@ -2101,6 +2161,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS435']/text()" delim="\n" op="add" >
@@ -2132,6 +2193,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS444']/text()" delim="\n" op="add" >
@@ -2163,6 +2225,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS453']/text()" delim="\n" op="add" >
@@ -2194,6 +2257,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS463']/text()" delim="\n" op="add" >
@@ -2225,6 +2289,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS472']/text()" delim="\n" op="add" >
@@ -2256,6 +2321,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS482']/text()" delim="\n" op="add" >
@@ -2287,6 +2353,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS491']/text()" delim="\n" op="add" >
@@ -2318,6 +2385,7 @@
 		zombieBogeymanPLUS, .15
 		zombieCrispyPLUS, .15
 		zombieScorcherPLUS, .15
+		zombieRocketPLUS, .05
 	</csv>
 
 <!-- Increase for GS 500 -->	
@@ -2350,6 +2418,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS510']/text()" delim="\n" op="add" >
@@ -2381,6 +2450,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS520']/text()" delim="\n" op="add" >
@@ -2412,6 +2482,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS530']/text()" delim="\n" op="add" >
@@ -2443,6 +2514,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS540']/text()" delim="\n" op="add" >
@@ -2474,6 +2546,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS550']/text()" delim="\n" op="add" >
@@ -2505,6 +2578,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS560']/text()" delim="\n" op="add" >
@@ -2536,6 +2610,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS570']/text()" delim="\n" op="add" >
@@ -2567,6 +2642,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS580']/text()" delim="\n" op="add" >
@@ -2598,6 +2674,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS590']/text()" delim="\n" op="add" >
@@ -2629,6 +2706,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS600']/text()" delim="\n" op="add" >
@@ -2660,6 +2738,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS610']/text()" delim="\n" op="add" >
@@ -2691,6 +2770,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS620']/text()" delim="\n" op="add" >
@@ -2722,6 +2802,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS631']/text()" delim="\n" op="add" >
@@ -2753,6 +2834,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS641']/text()" delim="\n" op="add" >
@@ -2784,6 +2866,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS651']/text()" delim="\n" op="add" >
@@ -2815,6 +2898,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS662']/text()" delim="\n" op="add" >
@@ -2846,6 +2930,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS672']/text()" delim="\n" op="add" >
@@ -2877,6 +2962,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS683']/text()" delim="\n" op="add" >
@@ -2908,6 +2994,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS693']/text()" delim="\n" op="add" >
@@ -2939,6 +3026,7 @@
 		zombieBogeymanPLUS, .175
 		zombieCrispyPLUS, .175
 		zombieScorcherPLUS, .175
+		zombieRocketPLUS, .058
 	</csv>
 
 <!-- Pretty much peaked for default entities and anything goes -->	
@@ -2971,6 +3059,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS715']/text()" delim="\n" op="add" >
@@ -3002,6 +3091,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS726']/text()" delim="\n" op="add" >
@@ -3033,6 +3123,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS736']/text()" delim="\n" op="add" >
@@ -3064,6 +3155,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS747']/text()" delim="\n" op="add" >
@@ -3095,6 +3187,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS758']/text()" delim="\n" op="add" >
@@ -3126,6 +3219,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS769']/text()" delim="\n" op="add" >
@@ -3157,6 +3251,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS780']/text()" delim="\n" op="add" >
@@ -3188,6 +3283,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS791']/text()" delim="\n" op="add" >
@@ -3219,6 +3315,7 @@
 		zombieBogeymanPLUS, .2
 		zombieCrispyPLUS, .2
 		zombieScorcherPLUS, .2
+		zombieRocketPLUS, .066
 	</csv>
 
 <!-- Increase in probabilities for GS 800 -->	
@@ -3251,6 +3348,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS813']/text()" delim="\n" op="add" >
@@ -3282,6 +3380,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS824']/text()" delim="\n" op="add" >
@@ -3313,6 +3412,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS836']/text()" delim="\n" op="add" >
@@ -3344,6 +3444,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS847']/text()" delim="\n" op="add" >
@@ -3375,6 +3476,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS858']/text()" delim="\n" op="add" >
@@ -3406,6 +3508,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS870']/text()" delim="\n" op="add" >
@@ -3437,6 +3540,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS881']/text()" delim="\n" op="add" >
@@ -3468,6 +3572,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS893']/text()" delim="\n" op="add" >
@@ -3499,6 +3604,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS904']/text()" delim="\n" op="add" >
@@ -3530,6 +3636,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS916']/text()" delim="\n" op="add" >
@@ -3561,6 +3668,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS927']/text()" delim="\n" op="add" >
@@ -3592,6 +3700,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS939']/text()" delim="\n" op="add" >
@@ -3623,6 +3732,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS951']/text()" delim="\n" op="add" >
@@ -3654,6 +3764,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS962']/text()" delim="\n" op="add" >
@@ -3685,6 +3796,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS974']/text()" delim="\n" op="add" >
@@ -3716,6 +3828,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS986']/text()" delim="\n" op="add" >
@@ -3747,6 +3860,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS998']/text()" delim="\n" op="add" >
@@ -3778,6 +3892,7 @@
 		zombieBogeymanPLUS, .225
 		zombieCrispyPLUS, .225
 		zombieScorcherPLUS, .225
+		zombieRocketPLUS, .075
 	</csv>
 
 <!-- Increase in probabilities for GS 1000 -->	
@@ -3810,6 +3925,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1022']/text()" delim="\n" op="add" >
@@ -3841,6 +3957,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1034']/text()" delim="\n" op="add" >
@@ -3872,6 +3989,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1046']/text()" delim="\n" op="add" >
@@ -3903,6 +4021,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1058']/text()" delim="\n" op="add" >
@@ -3934,6 +4053,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1070']/text()" delim="\n" op="add" >
@@ -3965,6 +4085,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1082']/text()" delim="\n" op="add" >
@@ -3996,6 +4117,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1094']/text()" delim="\n" op="add" >
@@ -4027,6 +4149,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1106']/text()" delim="\n" op="add" >
@@ -4058,6 +4181,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1119']/text()" delim="\n" op="add" >
@@ -4089,6 +4213,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1131']/text()" delim="\n" op="add" >
@@ -4120,6 +4245,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1143']/text()" delim="\n" op="add" >
@@ -4151,6 +4277,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1156']/text()" delim="\n" op="add" >
@@ -4182,6 +4309,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1168']/text()" delim="\n" op="add" >
@@ -4213,6 +4341,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1181']/text()" delim="\n" op="add" >
@@ -4244,6 +4373,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1193']/text()" delim="\n" op="add" >
@@ -4275,6 +4405,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1206']/text()" delim="\n" op="add" >
@@ -4306,6 +4437,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1218']/text()" delim="\n" op="add" >
@@ -4337,6 +4469,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1231']/text()" delim="\n" op="add" >
@@ -4368,6 +4501,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1244']/text()" delim="\n" op="add" >
@@ -4399,6 +4533,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1256']/text()" delim="\n" op="add" >
@@ -4430,6 +4565,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1269']/text()" delim="\n" op="add" >
@@ -4461,6 +4597,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1282']/text()" delim="\n" op="add" >
@@ -4492,6 +4629,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1295']/text()" delim="\n" op="add" >
@@ -4523,6 +4661,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1308']/text()" delim="\n" op="add" >
@@ -4554,6 +4693,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1321']/text()" delim="\n" op="add" >
@@ -4585,6 +4725,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1334']/text()" delim="\n" op="add" >
@@ -4616,6 +4757,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1347']/text()" delim="\n" op="add" >
@@ -4647,6 +4789,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1360']/text()" delim="\n" op="add" >
@@ -4678,6 +4821,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1373']/text()" delim="\n" op="add" >
@@ -4709,6 +4853,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1386']/text()" delim="\n" op="add" >
@@ -4740,6 +4885,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1399']/text()" delim="\n" op="add" >
@@ -4771,6 +4917,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1412']/text()" delim="\n" op="add" >
@@ -4802,6 +4949,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1425']/text()" delim="\n" op="add" >
@@ -4833,6 +4981,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1439']/text()" delim="\n" op="add" >
@@ -4864,6 +5013,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1452']/text()" delim="\n" op="add" >
@@ -4895,6 +5045,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1465']/text()" delim="\n" op="add" >
@@ -4926,6 +5077,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1479']/text()" delim="\n" op="add" >
@@ -4957,6 +5109,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1492']/text()" delim="\n" op="add" >
@@ -4988,6 +5141,7 @@
 		zombieBogeymanPLUS, .25
 		zombieCrispyPLUS, .25
 		zombieScorcherPLUS, .25
+		zombieRocketPLUS, .083
 	</csv>
 
 <!-- Increase in probabilities for GS 1500 -->	
@@ -5020,6 +5174,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1519']/text()" delim="\n" op="add" >
@@ -5051,6 +5206,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1533']/text()" delim="\n" op="add" >
@@ -5082,6 +5238,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1546']/text()" delim="\n" op="add" >
@@ -5113,6 +5270,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1560']/text()" delim="\n" op="add" >
@@ -5144,6 +5302,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1573']/text()" delim="\n" op="add" >
@@ -5175,6 +5334,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1587']/text()" delim="\n" op="add" >
@@ -5206,6 +5366,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1601']/text()" delim="\n" op="add" >
@@ -5237,6 +5398,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1614']/text()" delim="\n" op="add" >
@@ -5268,6 +5430,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1628']/text()" delim="\n" op="add" >
@@ -5299,6 +5462,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1642']/text()" delim="\n" op="add" >
@@ -5330,6 +5494,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1656']/text()" delim="\n" op="add" >
@@ -5361,6 +5526,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1670']/text()" delim="\n" op="add" >
@@ -5392,6 +5558,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1684']/text()" delim="\n" op="add" >
@@ -5423,6 +5590,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1698']/text()" delim="\n" op="add" >
@@ -5454,6 +5622,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1712']/text()" delim="\n" op="add" >
@@ -5485,6 +5654,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1726']/text()" delim="\n" op="add" >
@@ -5516,6 +5686,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1740']/text()" delim="\n" op="add" >
@@ -5547,6 +5718,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1754']/text()" delim="\n" op="add" >
@@ -5578,6 +5750,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1768']/text()" delim="\n" op="add" >
@@ -5609,6 +5782,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1782']/text()" delim="\n" op="add" >
@@ -5640,6 +5814,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1796']/text()" delim="\n" op="add" >
@@ -5671,6 +5846,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1811']/text()" delim="\n" op="add" >
@@ -5702,6 +5878,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1825']/text()" delim="\n" op="add" >
@@ -5733,6 +5910,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1839']/text()" delim="\n" op="add" >
@@ -5764,6 +5942,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1853']/text()" delim="\n" op="add" >
@@ -5795,6 +5974,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1868']/text()" delim="\n" op="add" >
@@ -5826,6 +6006,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1882']/text()" delim="\n" op="add" >
@@ -5857,6 +6038,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1897']/text()" delim="\n" op="add" >
@@ -5888,6 +6070,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1911']/text()" delim="\n" op="add" >
@@ -5919,6 +6102,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1926']/text()" delim="\n" op="add" >
@@ -5950,6 +6134,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1940']/text()" delim="\n" op="add" >
@@ -5981,6 +6166,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1955']/text()" delim="\n" op="add" >
@@ -6012,6 +6198,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1969']/text()" delim="\n" op="add" >
@@ -6043,6 +6230,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1984']/text()" delim="\n" op="add" >
@@ -6074,6 +6262,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS1999']/text()" delim="\n" op="add" >
@@ -6105,6 +6294,7 @@
 		zombieBogeymanPLUS, .3
 		zombieCrispyPLUS, .3
 		zombieScorcherPLUS, .3
+		zombieRocketPLUS, .1
 	</csv>
 
 <!-- Increase in probabilities for GS 2000 -->	
@@ -6137,6 +6327,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2028']/text()" delim="\n" op="add" >
@@ -6168,6 +6359,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2043']/text()" delim="\n" op="add" >
@@ -6199,6 +6391,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2058']/text()" delim="\n" op="add" >
@@ -6230,6 +6423,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2073']/text()" delim="\n" op="add" >
@@ -6261,6 +6455,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2087']/text()" delim="\n" op="add" >
@@ -6292,6 +6487,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2102']/text()" delim="\n" op="add" >
@@ -6323,6 +6519,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2117']/text()" delim="\n" op="add" >
@@ -6354,6 +6551,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2132']/text()" delim="\n" op="add" >
@@ -6385,6 +6583,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2147']/text()" delim="\n" op="add" >
@@ -6416,6 +6615,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2162']/text()" delim="\n" op="add" >
@@ -6447,6 +6647,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2177']/text()" delim="\n" op="add" >
@@ -6478,6 +6679,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2192']/text()" delim="\n" op="add" >
@@ -6509,6 +6711,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2207']/text()" delim="\n" op="add" >
@@ -6540,6 +6743,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2223']/text()" delim="\n" op="add" >
@@ -6571,6 +6775,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2238']/text()" delim="\n" op="add" >
@@ -6602,6 +6807,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2253']/text()" delim="\n" op="add" >
@@ -6633,6 +6839,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2268']/text()" delim="\n" op="add" >
@@ -6664,6 +6871,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2284']/text()" delim="\n" op="add" >
@@ -6695,6 +6903,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2299']/text()" delim="\n" op="add" >
@@ -6726,6 +6935,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2314']/text()" delim="\n" op="add" >
@@ -6757,6 +6967,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2330']/text()" delim="\n" op="add" >
@@ -6788,6 +6999,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2345']/text()" delim="\n" op="add" >
@@ -6819,6 +7031,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2360']/text()" delim="\n" op="add" >
@@ -6850,6 +7063,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2376']/text()" delim="\n" op="add" >
@@ -6881,6 +7095,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2391']/text()" delim="\n" op="add" >
@@ -6912,6 +7127,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2407']/text()" delim="\n" op="add" >
@@ -6943,6 +7159,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2423']/text()" delim="\n" op="add" >
@@ -6974,6 +7191,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2438']/text()" delim="\n" op="add" >
@@ -7005,6 +7223,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2454']/text()" delim="\n" op="add" >
@@ -7036,6 +7255,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2469']/text()" delim="\n" op="add" >
@@ -7067,6 +7287,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2485']/text()" delim="\n" op="add" >
@@ -7098,6 +7319,7 @@
 		zombieBogeymanPLUS, .325
 		zombieCrispyPLUS, .325
 		zombieScorcherPLUS, .325
+		zombieRocketPLUS, .11
 	</csv>
 
 <!-- Increase in probabilities for GS 2500 -->	
@@ -7130,6 +7352,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2517']/text()" delim="\n" op="add" >
@@ -7161,6 +7384,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2532']/text()" delim="\n" op="add" >
@@ -7192,6 +7416,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2548']/text()" delim="\n" op="add" >
@@ -7223,6 +7448,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2564']/text()" delim="\n" op="add" >
@@ -7254,6 +7480,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2580']/text()" delim="\n" op="add" >
@@ -7285,6 +7512,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2596']/text()" delim="\n" op="add" >
@@ -7316,6 +7544,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2612']/text()" delim="\n" op="add" >
@@ -7347,6 +7576,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2628']/text()" delim="\n" op="add" >
@@ -7378,6 +7608,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2644']/text()" delim="\n" op="add" >
@@ -7409,6 +7640,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2660']/text()" delim="\n" op="add" >
@@ -7440,6 +7672,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2676']/text()" delim="\n" op="add" >
@@ -7471,6 +7704,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2692']/text()" delim="\n" op="add" >
@@ -7502,6 +7736,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2708']/text()" delim="\n" op="add" >
@@ -7533,6 +7768,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2724']/text()" delim="\n" op="add" >
@@ -7564,6 +7800,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2740']/text()" delim="\n" op="add" >
@@ -7595,6 +7832,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2756']/text()" delim="\n" op="add" >
@@ -7626,6 +7864,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2772']/text()" delim="\n" op="add" >
@@ -7657,6 +7896,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2789']/text()" delim="\n" op="add" >
@@ -7688,6 +7928,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2805']/text()" delim="\n" op="add" >
@@ -7719,6 +7960,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2821']/text()" delim="\n" op="add" >
@@ -7750,6 +7992,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2838']/text()" delim="\n" op="add" >
@@ -7781,6 +8024,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2854']/text()" delim="\n" op="add" >
@@ -7812,6 +8056,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2870']/text()" delim="\n" op="add" >
@@ -7843,6 +8088,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2887']/text()" delim="\n" op="add" >
@@ -7874,6 +8120,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2903']/text()" delim="\n" op="add" >
@@ -7905,6 +8152,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2920']/text()" delim="\n" op="add" >
@@ -7936,6 +8184,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2936']/text()" delim="\n" op="add" >
@@ -7967,6 +8216,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2953']/text()" delim="\n" op="add" >
@@ -7998,6 +8248,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2969']/text()" delim="\n" op="add" >
@@ -8029,6 +8280,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS2986']/text()" delim="\n" op="add" >
@@ -8060,6 +8312,7 @@
 		zombieBogeymanPLUS, .35
 		zombieCrispyPLUS, .35
 		zombieScorcherPLUS, .35
+		zombieRocketPLUS, .116
 	</csv>
 
 <!-- Increase in probabilities for GS 3000 -->	
@@ -8092,6 +8345,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3019']/text()" delim="\n" op="add" >
@@ -8123,6 +8377,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3036']/text()" delim="\n" op="add" >
@@ -8154,6 +8409,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3053']/text()" delim="\n" op="add" >
@@ -8185,6 +8441,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3069']/text()" delim="\n" op="add" >
@@ -8216,6 +8473,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3086']/text()" delim="\n" op="add" >
@@ -8247,6 +8505,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3103']/text()" delim="\n" op="add" >
@@ -8278,6 +8537,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3120']/text()" delim="\n" op="add" >
@@ -8309,6 +8569,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3136']/text()" delim="\n" op="add" >
@@ -8340,6 +8601,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3153']/text()" delim="\n" op="add" >
@@ -8371,6 +8633,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3170']/text()" delim="\n" op="add" >
@@ -8402,6 +8665,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3187']/text()" delim="\n" op="add" >
@@ -8433,6 +8697,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3204']/text()" delim="\n" op="add" >
@@ -8464,6 +8729,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3221']/text()" delim="\n" op="add" >
@@ -8495,6 +8761,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3238']/text()" delim="\n" op="add" >
@@ -8526,6 +8793,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3255']/text()" delim="\n" op="add" >
@@ -8557,6 +8825,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3272']/text()" delim="\n" op="add" >
@@ -8588,6 +8857,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3289']/text()" delim="\n" op="add" >
@@ -8619,6 +8889,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3306']/text()" delim="\n" op="add" >
@@ -8650,6 +8921,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3324']/text()" delim="\n" op="add" >
@@ -8681,6 +8953,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3341']/text()" delim="\n" op="add" >
@@ -8712,6 +8985,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3358']/text()" delim="\n" op="add" >
@@ -8743,6 +9017,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3375']/text()" delim="\n" op="add" >
@@ -8774,6 +9049,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3392']/text()" delim="\n" op="add" >
@@ -8805,6 +9081,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3410']/text()" delim="\n" op="add" >
@@ -8836,6 +9113,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3427']/text()" delim="\n" op="add" >
@@ -8867,6 +9145,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3444']/text()" delim="\n" op="add" >
@@ -8898,6 +9177,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3462']/text()" delim="\n" op="add" >
@@ -8929,6 +9209,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3479']/text()" delim="\n" op="add" >
@@ -8960,6 +9241,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3496']/text()" delim="\n" op="add" >
@@ -8991,6 +9273,7 @@
 		zombieBogeymanPLUS, .375
 		zombieCrispyPLUS, .375
 		zombieScorcherPLUS, .375
+		zombieRocketPLUS, .125
 	</csv>
 
 <!-- Increase in probabilities for GS 3500 -->	
@@ -9023,6 +9306,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3531']/text()" delim="\n" op="add" >
@@ -9054,6 +9338,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3549']/text()" delim="\n" op="add" >
@@ -9085,6 +9370,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3566']/text()" delim="\n" op="add" >
@@ -9116,6 +9402,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3584']/text()" delim="\n" op="add" >
@@ -9147,6 +9434,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3601']/text()" delim="\n" op="add" >
@@ -9178,6 +9466,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3619']/text()" delim="\n" op="add" >
@@ -9209,6 +9498,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3637']/text()" delim="\n" op="add" >
@@ -9240,6 +9530,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3654']/text()" delim="\n" op="add" >
@@ -9271,6 +9562,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3672']/text()" delim="\n" op="add" >
@@ -9302,6 +9594,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3690']/text()" delim="\n" op="add" >
@@ -9333,6 +9626,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3707']/text()" delim="\n" op="add" >
@@ -9364,6 +9658,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3725']/text()" delim="\n" op="add" >
@@ -9395,6 +9690,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3743']/text()" delim="\n" op="add" >
@@ -9426,6 +9722,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3761']/text()" delim="\n" op="add" >
@@ -9457,6 +9754,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3779']/text()" delim="\n" op="add" >
@@ -9488,6 +9786,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3796']/text()" delim="\n" op="add" >
@@ -9519,6 +9818,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3814']/text()" delim="\n" op="add" >
@@ -9550,6 +9850,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3832']/text()" delim="\n" op="add" >
@@ -9581,6 +9882,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3850']/text()" delim="\n" op="add" >
@@ -9612,6 +9914,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3868']/text()" delim="\n" op="add" >
@@ -9643,6 +9946,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3886']/text()" delim="\n" op="add" >
@@ -9674,6 +9978,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3904']/text()" delim="\n" op="add" >
@@ -9705,6 +10010,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3922']/text()" delim="\n" op="add" >
@@ -9736,6 +10042,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3940']/text()" delim="\n" op="add" >
@@ -9767,6 +10074,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3958']/text()" delim="\n" op="add" >
@@ -9798,6 +10106,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3976']/text()" delim="\n" op="add" >
@@ -9829,6 +10138,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS3995']/text()" delim="\n" op="add" >
@@ -9860,6 +10170,7 @@
 		zombieBogeymanPLUS, .4
 		zombieCrispyPLUS, .4
 		zombieScorcherPLUS, .4
+		zombieRocketPLUS, .133
 	</csv>
 
 <!-- Increase in probabilities for GS 4000 -->	
@@ -9892,6 +10203,7 @@
 		zombieBogeymanPLUS, .5
 		zombieCrispyPLUS, .5
 		zombieScorcherPLUS, .5
+		zombieRocketPLUS, .166
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS4031']/text()" delim="\n" op="add" >
@@ -9923,6 +10235,7 @@
 		zombieBogeymanPLUS, .5
 		zombieCrispyPLUS, .5
 		zombieScorcherPLUS, .5
+		zombieRocketPLUS, .166
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS4049']/text()" delim="\n" op="add" >
@@ -9954,6 +10267,7 @@
 		zombieBogeymanPLUS, .5
 		zombieCrispyPLUS, .5
 		zombieScorcherPLUS, .5
+		zombieRocketPLUS, .166
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS4067']/text()" delim="\n" op="add" >
@@ -9985,6 +10299,7 @@
 		zombieBogeymanPLUS, .5
 		zombieCrispyPLUS, .5
 		zombieScorcherPLUS, .5
+		zombieRocketPLUS, .166
 	</csv>
 	
 	<csv xpath="/entitygroups/entitygroup[@name='feralHordeStageGS4086']/text()" delim="\n" op="add" >
@@ -10016,6 +10331,7 @@
 		zombieBogeymanPLUS, .5
 		zombieCrispyPLUS, .5
 		zombieScorcherPLUS, .5
+		zombieRocketPLUS, .166
 	</csv>
 
 </configs>

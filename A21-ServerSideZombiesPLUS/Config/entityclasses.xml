@@ -1058,7 +1058,58 @@
   
 <!-- SNUFKIN IMPORTS -->
 
-		<entity_class name="zombieScorcherPLUS" extends="zombieSoldier"> <!-- + 10% hits and gains -->
+		<entity_class name="zombieRocketPLUS" extends="zombieDemolition">
+			<property name="SizeScale" value="1.2"/>
+			<property name="Tags" value="entity,zombie,walker,boss,rocketPLUS"/>
+			<property name="Mesh" value="@:Entities/Zombies/Prefabs/ZDemolition.prefab"/>
+			<property name="Class" value="EntityZombieCop"/>
+			<property name="Mass" value="300"/>
+
+			<property name="RightHandJointName" value="LeftShoulder"/>
+			
+			<property name="AITask-1" value="RangedAttackTarget" data="itemType=1;cooldown=3;duration=4;minRange=3;maxRange=300"/>
+			<property name="AITask-2" value="ApproachAndAttackTarget" data="class=EntityEnemyAnimal,0,EntityPlayer"/>
+			<property name="AITask-3" value="BreakBlock"/>
+			<property name="AITask-4" value="ApproachSpot"/>
+			<property name="AITask-5" value="Look"/>
+			<property name="AITask-6" value="Wander"/>
+			<property name="AITask-7" value=""/>
+			<property name="DismemberMultiplierHead" value="0"/><property name="DismemberMultiplierArms" value=".7"/><property name="DismemberMultiplierLegs" value=".7"/><!-- Feral -->
+
+			<property name="LegCrawlerThreshold" value="0"/>
+			<property name="LegCrippleThreshold" value="0"/>
+			<property name="KnockdownProneDamageThreshold" value="0"/>
+			<property name="KnockdownKneelDamageThreshold" value="0"/>
+			<property name="SoundRandom" value="demolitionzroam"/>
+			<property name="SoundAlert" value="demolitionzalert"/>
+			<property name="SoundAttack" value="demolitionzattack"/>
+			<property name="SoundHurt" value="demolitionzpain"/>
+			<property name="SoundDeath" value="demolitionzdeath"/>
+			<property name="SoundSense" value="demolitionzsense"/>
+			<property name="SoundFootstepModifier" value="bear_footstep"/>
+			
+			<!-- Gameplay zombieDemolition -->
+			<property name="JumpMaxDistance" value="1, 2"/>
+			<property name="PainResistPerHit" value=".5"/>
+			<property name="StompsSpikes" value="true"/>
+			<property name="ExplodeHealthThreshold" value="0"/> <!-- Disable Health explosion and bomb is turned off -->		
+			<property name="HandItem" value="meleeHandZombieRocketPLUS"/>
+
+			<property name="ExperienceGain" value="1320"/>
+			<property name="LootDropEntityClass" value="EntityLootContainerBoss"/>
+			<property name="LootDropProb" value=".25"/>
+
+			<effect_group name="Base Effects">
+				<passive_effect name="HealthMax" operation="base_set" value="1500"/>
+				<passive_effect name="HealthMax" operation="perc_set" value="1"/>
+				<passive_effect name="DamageModifier" operation="perc_set" value="1" tags="head"/>
+				<passive_effect name="PhysicalDamageResist" operation="base_set" value="60"/>
+				<triggered_effect trigger="onSelfFirstSpawn" action="AddBuff" target="self" buff="zombieRocketPLUSDeco"/>
+				<triggered_effect trigger="onSelfFirstSpawn" action="ModifyCVar" target="self" cvar="EntityBoss" operation="set" value="1"/>
+			</effect_group>
+		</entity_class>
+		
+		<entity_class name="zombieScorcherPLUS" extends="zombieDemolition">
 			<property name="SizeScale" value="1.2"/>
 			<property name="Tags" value="entity,zombie,walker,boss,scorcherPLUS"/>
 			<property name="Mesh" value="@:Entities/Zombies/Prefabs/ZDemolition.prefab"/>
@@ -1088,12 +1139,11 @@
 			<property name="SoundSense" value="demolitionzsense"/>
 			<property name="SoundFootstepModifier" value="bear_footstep"/>
 
-			<property name="ExplodeHealthThreshold" value="0"/>
-			<property name="HandItem" value="meleeHandZombieScorcherPLUS"/>
 			<property name="JumpMaxDistance" value="1, 2"/>
-			<property name="PainResistPerHit" value="1"/>
+			<property name="PainResistPerHit" value=".5"/>
 			<property name="StompsSpikes" value="true"/>
-			<property name="ExplodeHealthThreshold" value="0"/> <!-- Disable Health explosion -->
+			<property name="ExplodeHealthThreshold" value="0"/> <!-- Disable Health explosion and bomb is turned off -->		
+			<property name="HandItem" value="meleeHandZombieScorcherPLUS"/>
 
 			<property name="ExperienceGain" value="1320"/>
 			<property name="LootDropEntityClass" value="EntityLootContainerBoss"/>

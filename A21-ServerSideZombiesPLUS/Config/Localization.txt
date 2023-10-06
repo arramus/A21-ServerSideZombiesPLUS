@@ -27,4 +27,5 @@ zombieSteelSledgehammerFatHawaiianPLUS,entityclasses,Entity,,,Sledgehammer Touri
 zombieWightRadiationShowerPLUS,entityclasses,Entity,,,Radiation Shower Wight,,,,,,,,,,,,,
 zombieBogeymanPLUS,entityclasses,Entity,,,Radiation Shower Bogeyman,,,,,,,,,,,,,
 zombieCrispyPLUS,entityclasses,Entity,,,Wood Stove Walker,,,,,,,,,,,,,
+zombieRocketPLUS,entityclasses,Entity,,,Fragger,,,,,,,,,,,,,
 zombieScorcherPLUS,entityclasses,Entity,,,Scorcher,,,,,,,,,,,,,
