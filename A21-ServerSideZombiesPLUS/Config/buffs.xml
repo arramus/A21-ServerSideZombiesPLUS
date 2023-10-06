@@ -26,6 +26,14 @@
 			</effect_group>
 		</buff>
 		
+		<buff name="animalPaindeerPLUSDeco" hidden="true">
+			<effect_group>
+				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Other/Items/Weapons/Melee/Axe/steelAxePrefab.prefab" local_offset="0,0,0.3" local_rotation="90,0,0" parent_transform="Head"/>
+				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Other/Items/Misc/snowball_FP_Prefab.prefab" local_offset="0,-0.265,0.29" local_rotation="0,0,0" parent_transform="Head"/>			
+				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Entities/Zombies/Zombies/corpse3Prefab.prefab" local_offset="0,0.5,0" local_rotation="0,0,0" parent_transform="Spine1"/>			
+			</effect_group>
+		</buff>
+		
 		<buff name="zombieM60DemolitionPLUSDeco" hidden="true">
 			<effect_group>				
 				<triggered_effect trigger="onSelfBuffStart" action="AttachPrefabToEntity" prefab="@:Other/Items/Weapons/Ranged/MachineGun/m60MachinegunPrefab.prefab" local_offset="0.18,0.03,-0.07" local_rotation="187,-80,90" parent_transform="RightHand"/> <!-- Local Offset Front-Back/Left-Right/Up-Down -->

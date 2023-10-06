@@ -1,10 +1,11 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
 
-animalZombieBunnyPLUS,entityclasses,Entity,,,Zombie Bunny,,,,,,,,,,,,,
-animalZombieSnakePLUS,entityclasses,Entity,,,Zombie Snake,,,,,,,,,,,,,
+animalZombieBunnyPLUS,entityclasses,Entity,,,Bad Bunny,,,,,,,,,,,,,
+animalZombieSnakePLUS,entityclasses,Entity,,,Mutant Snake,,,,,,,,,,,,,
 animalZombieChickenPLUS,entityclasses,Entity,,,Battle Chicken,,,,,,,,,,,,,
-animalBossZombieGracePLUS,entityclasses,Entity,,,Zombie Grace,,,,,,,,,,,,,
+animalBossZombieGracePLUS,entityclasses,Entity,,,Gory Grace,,,,,,,,,,,,,
 animalZombieLargePlasmaVulturePLUS,entityclasses,Entity,,,Large Zombie Plasma Vulture,,,,,,,,,,,,,
+animalPaindeerPLUS,entityclasses,Entity,,,Paindeer,,,,,,,,,,,,,
 zombieSpiderFeralBomberPLUS,entityclasses,Entity,,,Spider Drone Pipe Bomber,,,,,,,,,,,,,
 zombieSpiderFeralGliderPLUS,entityclasses,Entity,,,Spider Glider Fire Starter,,,,,,,,,,,,,
 zombieM60DemolitionPLUS,entityclasses,Entity,,,M60 Demolition,,,,,,,,,,,,,
