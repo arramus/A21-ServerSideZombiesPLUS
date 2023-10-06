@@ -1,7 +1,7 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
 
 animalZombieBunnyPLUS,entityclasses,Entity,,,Bad Bunny,,,,,,,,,,,,,
-animalZombieSnakePLUS,entityclasses,Entity,,,Mutant Snake,,,,,,,,,,,,,
+animalZombieSnakePLUS,entityclasses,Entity,,,Slithering Mutant Snake,,,,,,,,,,,,,
 animalZombieChickenPLUS,entityclasses,Entity,,,Battle Chicken,,,,,,,,,,,,,
 animalBossZombieGracePLUS,entityclasses,Entity,,,Gory Grace,,,,,,,,,,,,,
 animalZombieLargePlasmaVulturePLUS,entityclasses,Entity,,,Large Zombie Plasma Vulture,,,,,,,,,,,,,
